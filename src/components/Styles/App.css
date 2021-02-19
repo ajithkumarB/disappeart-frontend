@@ -1,0 +1,219 @@
+.login {
+ /* padding-left: 26%; */
+ padding: 0% 26% 0% 26%;
+ background: url(../Images/loginimage.jpg);
+ height: 100%;
+}
+
+.signup{
+  padding: 0% 26% 0% 26%;
+ background: url(../Images/loginimage.jpg);
+ height: 100%;
+}
+
+.resetpassword{
+  padding: 0% 26% 0% 26%;
+  background: url(../Images/loginimage.jpg);
+  height: 100%;
+ }
+
+.textbox {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
+.image{
+  width: 60%;
+  height: 425px;
+  margin-left: 20%;
+}
+
+.label{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.btn
+{
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+
+.card{
+  width: 100%;
+ 
+}
+
+.login-align{
+  padding: 8.3%;
+}
+
+.signup-align{
+  padding: 9%;
+}
+
+.reset-align{
+  padding: 13.5%;
+}
+
+@media screen and (max-width:1700px){
+  .login-align{
+    padding: 3.6%;
+  }
+  .signup-align{
+    padding: 4.5%;
+  }
+  .reset-align{
+    padding: 9.8%;
+  }
+}
+@media screen and (max-width:1400px){
+  .reset-align{
+    padding:10.8%;
+  }
+  .signup-align{
+    padding: 5.6%;
+  }
+  .login-align{
+    padding: 4.7%;
+  }
+  .image{
+    height: 420px;
+    width: 70%;
+    margin-left: 15%;
+  }
+}
+@media screen and (max-width:1200px){
+.reset-align{
+  padding: 12.5%;
+}
+.login-align{
+   padding: 5.4%;
+}
+
+.signup-align{
+  padding: 6.6%;
+}
+
+.image{
+  width: 85%;
+  margin-left: 11%;
+}
+}
+
+
+@media screen and (max-width:900px){
+  .label{
+    margin-left: 10%;
+  }
+  .textbox{
+    margin-left: 10%;
+    width: 80%;
+  }
+  .card{
+    width: 120%;
+  }
+.login {
+    padding: 0% 26% 0% 19%;
+  }
+  .signup{
+    padding: 0% 26% 0% 17%;
+  }
+  .resetpassword{
+    padding: 0% 26% 0% 19%;
+  }
+  .reset-align{
+    padding: 16.2%;
+  }
+  .signup-align{
+    padding: 7.5%;
+  }
+  .login-align{
+    padding: 13.5%;
+  }
+  .image{
+    width: 65%;
+    height: 350px;
+    margin-left: 18%;
+  }
+
+}
+@media screen and (max-width:770px){
+  .reset-align{
+    padding: 19.5%;
+  }
+  .signup-align{
+    padding:16.5%;
+  }
+  .login-align{
+    padding: 15.5%;
+  }
+  .btn{
+    width: 55%;
+  }
+}
+@media screen and (max-width:600px){
+.card{
+  width: 185%;
+}
+.login {
+  padding: 0% 20% 0% 1%;
+}
+.signup{
+  padding: 0% 26% 0% 1%;
+}
+.resetpassword{
+  padding: 0% 26% 0% 1%;
+}
+.reset-align{
+  padding: 31.65%;
+}
+.signup-align{
+  padding:28.3%;
+}
+.login-align{
+  padding: 33.3%;
+}
+.image{
+width: 50%;
+height: 250px;
+margin-left: 25%;
+}
+.label{
+  margin-left: 15%;
+}
+.textbox{
+  margin-left: 15%;
+  width: 70%;
+}
+}
+
+@media screen and (max-width:400px){
+  .card{
+    width: 220%;
+  }
+  .login {
+    margin-left: -18%;
+  }
+  .signup{
+    margin-left: -15%;
+  }
+  .resetpassword{
+    margin-left: -25%;
+  }
+  .btn{
+    width: 72%;
+
+  }
+  .reset-align{
+    padding: 35.5%;
+  }
+  .signup-align{
+    padding:30.95%;
+  }
+  .login-align{
+    padding: 31%;
+  }
+ 
+}
